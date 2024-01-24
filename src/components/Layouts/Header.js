@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import "../../styles/HeaderStyle.css";
-import { Container,Nav,Navbar,NavDropdown } from 'react-bootstrap';
+import { Container,Nav,Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import Logo from "../../assets/logo/logo.png";
+import Logo from "../../assets/logo/logo2.png";
 
 function Header() {
 
